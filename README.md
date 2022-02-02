@@ -1,1 +1,11 @@
-# javascript-algorithms-and-data-structures
+### JavaScript Algorithms and Data Structures Certification :heavy_check_mark:
+* [x] [Basic JavaScript](https://github.com/somekindofwallflower/javascript-algorithms-and-data-structures/tree/master/01_Basic_JavaScript)
+* [ ] [ES6](https://github.com/somekindofwallflower/javascript-algorithms-and-data-structure/tree/master/ES6)
+* [ ] [Regular Expressions](https://github.com/somekindofwallflower/javascript-algorithms-and-data-structure/tree/master/Regular%20Expressions)
+* [ ] [Debugging](https://github.com/somekindofwallflower/javascript-algorithms-and-data-structure/tree/master/Debugging)
+* [ ] [Basic Data Structures](https://github.com/somekindofwallflower/javascript-algorithms-and-data-structure/tree/master/Basic%20Data%20Structures)
+* [ ] [Algorithm Scripting](https://github.com/somekindofwallflower/javascript-algorithms-and-data-structure/tree/master/Basic%20Algorithm%20Scripting)
+* [ ] [Object Oriented Programming](https://github.com/somekindofwallflower/javascript-algorithms-and-data-structure/tree/master/Object%20Oriented%20Programming)
+* [ ] [Functional Programming](https://github.com/somekindofwallflower/javascript-algorithms-and-data-structure/tree/master/Functional%20Programming)
+* [ ] [Intermediate Algorithm Scripting](https://github.com/somekindofwallflower/javascript-algorithms-and-data-structure/tree/master/Intermediate%20Algorithm%20Scripting)
+* [ ] [JavaScript Algorithms and Data Structures Projects](https://github.com/somekindofwallflower/javascript-algorithms-and-data-structure/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures%20Projects)
