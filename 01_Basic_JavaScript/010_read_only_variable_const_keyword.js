@@ -1,6 +1,6 @@
 "use strict";
 
-// In ES6, you can also declare variables using the const keyword.
+// In 02_ES6, you can also declare variables using the const keyword.
 // Declared using const are read-only. They are a constant value, which means that once a variable is assigned with const, it cannot be reassigned:
 /*
 Task: Change the code so that all variables are declared using let or const.
